@@ -25,8 +25,8 @@ def generate_table_of_content(config: Config):
     readme = config.readme_start
 
     for root, dirs, files in os.walk(config.path_start_from):
-        dirs[:] = [d for d in dirs if d not in config.exclude_dirs]
-        files[:] = [f for f in files if f not in config.exclude_files]
+        dirs[:] = sorted([d for d in dirs if d not in config.exclude_dirs])
+        files[:] = sorted([f for f in files if f not in config.exclude_files])
 
         if root == os.path.curdir:
             current_level = 1
