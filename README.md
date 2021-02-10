@@ -5,6 +5,10 @@
 - [README](./README.md)
 - [generate_table_of_content](./generate_table_of_content.py)
 
+### macOS
+
+- [disable_gatekeeper](./macOS/disable_gatekeeper.sh)
+
 ### python
 
 - [pip](./python/pip.conf)
@@ -32,4 +36,4 @@
 
 
 
-Auto generate at 2021-02-07 17:23
+Auto generate at 2021-02-10 17:23
