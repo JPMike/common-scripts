@@ -9,6 +9,11 @@
 
 - [disable-gatekeeper](./macOS/disable-gatekeeper.sh)
 
+#### brew
+
+- [brew-update](./macOS/brew/brew-update.sh)
+- [brew-upgrade](./macOS/brew/brew-upgrade.sh)
+
 ### python
 
 - [pip](./python/pip.conf)
@@ -36,4 +41,4 @@
 
 
 
-Auto generate at 2021-02-10 17:25
+Auto generate at 2021-02-10 18:19
