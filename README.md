@@ -7,7 +7,7 @@
 
 ### macOS
 
-- [disable_gatekeeper](./macOS/disable_gatekeeper.sh)
+- [disable-gatekeeper](./macOS/disable-gatekeeper.sh)
 
 ### python
 
@@ -36,4 +36,4 @@
 
 
 
-Auto generate at 2021-02-10 17:23
+Auto generate at 2021-02-10 17:25
